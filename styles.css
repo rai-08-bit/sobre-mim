@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(217,217,243);
+    margin: 0%;
+} header{
+    background-color:rgb(230 86 134); 
+    color: rgb(217,217,243); 
+    text-shadow: 2.5px 2.5px 2.5px rgb(1, 1, 38);
+    font-weight: lighter;
+    text-align: center;
+    padding: 8px;
+} nav ul{
+    list-style:armenian;
+    margin: 0%;
+    text-align: center;
+    background-color:  rgb(206, 206, 245);
+} nav ul li{
+    display: inline-block;
+    margin: 0 70px;
+} nav ul li a{
+    color: midnightblue;
+    text-transform:none;
+    font-weight: lighter;
+} div{
+    padding: 10px;
+    background-color: rgb(206, 206, 245);
+    text-align: center;
+    color: midnightblue;
+    margin: 2.5%;
+    box-shadow: 10px 15px 70px midnightblue
+}
