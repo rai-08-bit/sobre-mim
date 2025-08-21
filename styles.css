@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body{
+    font-family: 'Indie Flower';
     background-color: rgb(217,217,243);
     margin: 0%;
 } header{
@@ -27,4 +29,13 @@ body{
     color: midnightblue;
     margin: 2.5%;
     box-shadow: 10px 15px 70px midnightblue;
+} footer{
+    background-color: rgb(230 86 134);
+    color:rgb(206, 206, 245);
+    text-align: center;
+    position: fixed;
+    padding: 0.5px;
+    bottom: 0;
+    width: 99.90%;
+    height: 45px;
 }
